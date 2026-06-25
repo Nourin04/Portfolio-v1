@@ -1,0 +1,6 @@
+{
+  "name": "Noureen - AI Portfolio",
+  "description": "Premium modern minimalistic personal portfolio website for Noureen, Software Engineer & AI Engineer, featuring an interactive AI chatbot assistant trained on her credentials and projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
